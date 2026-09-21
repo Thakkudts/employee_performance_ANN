@@ -1,3 +1,3 @@
 Try Live Demo 🚀
 
-Streamlit link: https://employeeperformanceann-abbpz6puappy95f7mbsqkka.streamlit.app/
+Streamlit link: https://employeeperformanceann-axl6tz3xebshkbmcgixgsa.streamlit.app/
