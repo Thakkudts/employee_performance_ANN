@@ -35,7 +35,7 @@ if st.button("Predict Performance"):
         verbose=0
     )[0][0]
 
-    if probability >= 0.5:
+    if probability >= 0.5 and training_hours > 5 and attendance > 50:
         prediction = "Good"
     else:
         prediction = "Needs Improvement"
